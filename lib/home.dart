@@ -34,8 +34,8 @@ class Main extends StatelessWidget {
                 Expanded(
                   child: Column(
                     children: <Widget>[
-                      Text('Product In', style: const TextStyle(fontSize: 20)),
-                      Text('10', style: const TextStyle(fontSize: 50)),
+                      Text('Product In', style: const TextStyle(fontSize: 40)),
+                      Text('10', style: const TextStyle(fontSize: 40)),
                     ],
                   ),
                 ),
@@ -66,7 +66,7 @@ class Main extends StatelessWidget {
                   child: ClipRRect(
                     borderRadius: BorderRadius.all(Radius.circular(4)),
                     // child: Image.network('https://loremflickr.com/80/80'),
-                    child: Image.asset("assets/img/shoes1-small.jpg", width: 80, height: 80),
+                    child: Image.asset("https://images.tokopedia.net/img/cache/500-square/product-1/2021/4/3/10239893/10239893_42df41af-bb5d-4d12-80c3-4c8e76022163.jpg", width: 80, height: 80),
                   ),
                 ),
                 Column(
