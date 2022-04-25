@@ -66,7 +66,7 @@ class Main extends StatelessWidget {
                   child: ClipRRect(
                     borderRadius: BorderRadius.all(Radius.circular(4)),
                     // child: Image.network('https://loremflickr.com/80/80'),
-                    child: Image.asset("https://images.tokopedia.net/img/cache/500-square/product-1/2021/4/3/10239893/10239893_42df41af-bb5d-4d12-80c3-4c8e76022163.jpg", width: 80, height: 80),
+                    child: Image.asset("https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//98/MTA-35384506/oem_oem_full01.jpg", width: 80, height: 80),
                   ),
                 ),
                 Column(
