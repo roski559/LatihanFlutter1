@@ -116,7 +116,7 @@ class Main extends StatelessWidget {
                   child: ClipRRect(
                     borderRadius: BorderRadius.all(Radius.circular(4)),
                     // child: Image.network('https://loremflickr.com/80/80'),
-                    child: Image.asset("assets/img/shoes1-small.jpg", width: 80, height: 80),
+                    child: Image.asset("https://dpmptsp.lebakkab.go.id/wp-content/uploads/2021/03/vneck-tee-2.jpg", width: 80, height: 80),
                   ),
                 ),
                 Column(
