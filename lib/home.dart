@@ -34,8 +34,8 @@ class Main extends StatelessWidget {
                 Expanded(
                   child: Column(
                     children: <Widget>[
-                      Text('Product In', style: const TextStyle(fontSize: 40)),
-                      Text('10', style: const TextStyle(fontSize: 40)),
+                      Text('Product In', style: const TextStyle(fontSize: 20)),
+                      Text('10', style: const TextStyle(fontSize: 50)),
                     ],
                   ),
                 ),
