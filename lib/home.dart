@@ -97,7 +97,7 @@ class Main extends StatelessWidget {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
-                    Text('Brand new shoes', textAlign: TextAlign.left, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+                    Text('Brand new jaket', textAlign: TextAlign.left, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
                     Text('SH-231', textAlign: TextAlign.left, style: const TextStyle(fontSize: 10)),
                     RaisedButton(
                       child: Text('Stok 1'),
@@ -122,7 +122,7 @@ class Main extends StatelessWidget {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
-                    Text('Brand new shoes', textAlign: TextAlign.left, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+                    Text('Brand new t-shirst', textAlign: TextAlign.left, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
                     Text('SH-231', textAlign: TextAlign.left, style: const TextStyle(fontSize: 10)),
                     RaisedButton(
                       child: Text('Stok 1'),
@@ -137,7 +137,7 @@ class Main extends StatelessWidget {
             Align(
               alignment: Alignment.bottomRight,
               child: RaisedButton.icon(
-                color: Colors.blue,
+                color: Colors.green,
                 label: Text('New Transaction'),
                 icon: Icon(Icons.arrow_downward),
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.all(Radius.circular(16.0))),
