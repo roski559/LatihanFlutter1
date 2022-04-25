@@ -91,7 +91,7 @@ class Main extends StatelessWidget {
                   child: ClipRRect(
                     borderRadius: BorderRadius.all(Radius.circular(4)),
                     // child: Image.network('https://loremflickr.com/80/80'),
-                    child: Image.asset("assets/img/shoes1-small.jpg", width: 80, height: 80),
+                    child: Image.asset("https://cf.shopee.co.id/file/d1ede0512d3da2e0fee0ccfedf6a21aa", width: 80, height: 80),
                   ),
                 ),
                 Column(
